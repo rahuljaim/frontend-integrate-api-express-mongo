@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "front-folder",
+=======
   "name": "frontend-integrate-api_express_mongo",
+>>>>>>> main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
