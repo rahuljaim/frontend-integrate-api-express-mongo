@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-integrate-api-express-mongo/static/css/main.073c9b0a.css",
+    "main.js": "/frontend-integrate-api-express-mongo/static/js/main.c5b61462.js",
+    "static/js/787.8360925a.chunk.js": "/frontend-integrate-api-express-mongo/static/js/787.8360925a.chunk.js",
+    "index.html": "/frontend-integrate-api-express-mongo/index.html",
+    "main.073c9b0a.css.map": "/frontend-integrate-api-express-mongo/static/css/main.073c9b0a.css.map",
+    "main.c5b61462.js.map": "/frontend-integrate-api-express-mongo/static/js/main.c5b61462.js.map",
+    "787.8360925a.chunk.js.map": "/frontend-integrate-api-express-mongo/static/js/787.8360925a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5b61462.js"
+  ]
+}
